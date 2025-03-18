@@ -122,3 +122,14 @@ O backend do EmailCheck foi estruturado para garantir a segurança e limitar con
 
 Com essa arquitetura, garantimos um sistema escalável e eficiente para a validação de e-mails. 🚀
 
+# TELA DE LOGIN E CADASTRO
+![Texto alternativo](img/projeto3.png)
+![Texto alternativo](img/projeto4.png)
+
+# EMAIL VALIDO
+![Texto alternativo](img/projeto2.png)
+
+# EMAIL INVALIDO
+![Texto alternativo](img/projeto7.png)
+
+
